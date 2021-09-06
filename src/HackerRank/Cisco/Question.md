@@ -1,4 +1,4 @@
-#Increasing String Problem
+# Increasing String Problem
 
 You are given a string S and your task is to make the string increasing. 
 A string S is called increasing if the following is true:
