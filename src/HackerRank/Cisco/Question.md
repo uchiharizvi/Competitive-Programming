@@ -54,7 +54,8 @@ mehdi
 ###### Sample Output
 20 mrtuz
 
-######Explanation
+###### Explanation
+
 m changes to m with cost 0
 
 e changes to r with cost 3
